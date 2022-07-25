@@ -40,7 +40,8 @@ This is the home page where you can see all the features of the website. <br/>
 **Multiple Transactions**
 <br/>
 <br/>
-You can add all your details here and keep track of all.<br/>
+-You can add all your details here and keep track of all.<br/>
+-You can delete and edit the transaction from the action button shown.<br/>
 
 <img src="https://imgur.com/kWBj7WS.png" />
 
